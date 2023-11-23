@@ -10,13 +10,13 @@ e medicamentos, e tecnologias inovadoras para
 otimizar a gestão hospitalar.<br/>
 Registro de Pacientes e Rastreamento Avançado:
 Cada paciente terá um perfil consolidando dados
-médicos, prescrições e tratamentos.
+médicos, prescrições e tratamentos.<br/>
 Aprimoramento do rastreamento de utensílios e
 medicamentos para criar históricos detalhados de
 intervenções médicas.<br/>
 Benefícios
 Para o Hospital:<br/>
-Gestão de Estoque Eficiente:
+Gestão de Estoque Eficiente:<br/>
 Monitoramento contínuo do estoque para reposição
 eficiente e redução de desperdícios.<br/>
 Faturamento Transparente:
@@ -67,3 +67,7 @@ Criação de plataformas online interativas para
 educação em saúde abordando prevenção de
 doenças, saúde mental e hábitos saudáveis.<br/>
 </p>
+
+<h2>Instruções</h2>
+
+<p>Para observar o funcionamento do dispositivo é necessário alterar a temperatura manualmente nos sensores simulados no Tinkercad e Wokwi</p>
