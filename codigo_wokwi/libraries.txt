@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+PubSubClient
+EspMQTTClient
+ArduinoJson
+dhtESP32-rmt
+DHT sensor library for ESPx
