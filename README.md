@@ -70,4 +70,4 @@ doenças, saúde mental e hábitos saudáveis.<br/>
 
 <h2>Instruções</h2>
 
-<p>Para observar o funcionamento do dispositivo é necessário alterar a temperatura manualmente nos sensores simulados no Tinkercad e Wokwi</p>
+<p>Para observar o funcionamento do dispositivo é necessário alterar a temperatura manualmente nos sensores simulados no Tinkercad e Wokwi.</p>
